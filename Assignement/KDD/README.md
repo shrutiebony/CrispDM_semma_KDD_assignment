@@ -19,7 +19,3 @@ The KDD process consists of six essential stages that guide the analysis from ra
 6. Knowledge Representation: Presenting the findings.
 
 I have written medium article on this.
-
-Link: https://medium.com/@chandinisaisri.uppuganti/predicting-customer-churn-applying-the-kdd-process-using-python-7b0c2d6bda16
-
-Colab file: https://colab.research.google.com/drive/1r6n_L50eDf6qric7_bknApreT5AH4bxA?usp=sharing

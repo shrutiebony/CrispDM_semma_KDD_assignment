@@ -33,9 +33,7 @@ CRISP-DM is an iterative process, meaning insights or issues found during one ph
 
 I have written medium article on this.
 
-Link: https://medium.com/@chandinisaisri.uppuganti/customer-lifetime-value-prediction-system-crisp-dm-7518f56e6f44
-
-Colab file: https://colab.research.google.com/drive/161wGiyS7U7gze8D6NCA3TOPokJQXwizD?usp=sharing
+Link: https://medium.com/me/stories/public
 
 
 
@@ -61,7 +59,7 @@ The KDD process consists of six essential stages that guide the analysis from ra
 
 I have written medium article on this.
 
-Link: https://medium.com/@chandinisaisri.uppuganti/predicting-customer-churn-applying-the-kdd-process-using-python-7b0c2d6bda16
+Link: https://medium.com/me/stories/public
 
 Colab file: https://colab.research.google.com/drive/1r6n_L50eDf6qric7_bknApreT5AH4bxA?usp=sharing
 
@@ -80,6 +78,5 @@ The entire process follows the SEMMA framework:
 
 I have written medium article on this.
 
-Link: https://medium.com/@chandinisaisri.uppuganti/mastering-data-mining-with-semma-iris-flower-classification-4bdac23455b3
-
+Link: https://medium.com/me/stories/public
 Colab file: https://colab.research.google.com/drive/1OcYLksdfSydE5Xp5RhBLet6342RlcCwc

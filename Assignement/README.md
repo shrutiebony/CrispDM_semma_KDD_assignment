@@ -61,8 +61,6 @@ I have written medium article on this.
 
 Link: https://medium.com/me/stories/public
 
-Colab file: https://colab.research.google.com/drive/1r6n_L50eDf6qric7_bknApreT5AH4bxA?usp=sharing
-
 
 # Mastering Data Mining with SEMMA: Iris Flower Classification
 
@@ -79,4 +77,3 @@ The entire process follows the SEMMA framework:
 I have written medium article on this.
 
 Link: https://medium.com/me/stories/public
-Colab file: https://colab.research.google.com/drive/1OcYLksdfSydE5Xp5RhBLet6342RlcCwc

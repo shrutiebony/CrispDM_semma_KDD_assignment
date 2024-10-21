@@ -9,9 +9,3 @@ The entire process follows the SEMMA framework:
 3. Modify: Data is cleaned, split into training and testing sets, and features are scaled for optimal model performance.
 4. Model: A Random Forest classifier is trained on the data.
 5. Assess: Model performance is evaluated using metrics like accuracy and confusion matrix.
-
-I have written medium article on this.
-
-Link: https://medium.com/@chandinisaisri.uppuganti/mastering-data-mining-with-semma-iris-flower-classification-4bdac23455b3
-
-Colab file: https://colab.research.google.com/drive/1OcYLksdfSydE5Xp5RhBLet6342RlcCwc

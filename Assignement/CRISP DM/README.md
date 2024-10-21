@@ -29,7 +29,3 @@ CRISP-DM stands for Cross-Industry Standard Process for Data Mining, a widely us
 CRISP-DM is an iterative process, meaning insights or issues found during one phase may lead to revisiting earlier phases.
 
 I have written medium article on this.
-
-Link: https://medium.com/@chandinisaisri.uppuganti/customer-lifetime-value-prediction-system-crisp-dm-7518f56e6f44
-
-Colab file: https://colab.research.google.com/drive/161wGiyS7U7gze8D6NCA3TOPokJQXwizD?usp=sharing

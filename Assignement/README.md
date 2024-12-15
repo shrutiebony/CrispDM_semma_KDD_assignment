@@ -59,7 +59,7 @@ The KDD process consists of six essential stages that guide the analysis from ra
 
 I have written medium article on this.
 
-Link: https://medium.com/me/stories/public
+Link: [https://medium.com/me/stories/public](https://medium.com/@shrutiebony/crisp-dm-semma-and-kdd-6244a4661e04)
 
 
 # Mastering Data Mining with SEMMA: Iris Flower Classification
@@ -76,4 +76,4 @@ The entire process follows the SEMMA framework:
 
 I have written medium article on this.
 
-Link: https://medium.com/me/stories/public
+Link: [https://medium.com/me/stories/public](https://medium.com/@shrutiebony/crisp-dm-semma-and-kdd-6244a4661e04)
